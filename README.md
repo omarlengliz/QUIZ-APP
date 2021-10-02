@@ -2,8 +2,11 @@
 
 This project is a simple quiz app about Tunisia.
 ## How to use 
-cd Path/quiz \n
+
+cd Path/quiz
+
 Flutter run --no-sound-null-safety
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
